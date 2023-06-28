@@ -22,9 +22,9 @@
 | 10 | ...               |        |                                                                                                          | More on developing status                                                                                                                                                     |                                                     |                                                        |
 
 
-### **👯 Open-source Repositories Developed / Coontribued**
+### **👯 Open-source Repositories Developed / Contribued**
 
-| Open PR(s) | Name                                                                           | Description                                                                                                                                                                   |
+| Open Repo(s) | Name                                                                           | Description                                                                                                                                                                   |
 | :--------: | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     1     | utdf2gmns                                                                      | synchro utdf format to gmns signal timing format at movement layer                                                                                                            |
 |     2     | osm2mns                                                                        | convert map data from OpenStreetMap to network files in GMNS format                                                                                                           |
@@ -34,7 +34,7 @@
 |     6     | exceltomysql                                                                   | automatically save local excel file (xlsx,xls,csv) to MYSQL database                                                                                                        |
 |     7     | exceltosqlserver                                                               | automatically save local excel file (xlsx,xls,csv) to SQL Server database                                                                                                   |
 |     8     | pyhelpers                                                                      | An open-source toolkit for facilitating Python users' data manipulation tasks.                                                                                                |
-|     9     | gtfs2gmns                                                                      | convert[GTFS](https://gtfs.org/) data to GMNS format                                                                                                                             |
+|     9     | gtfs2gmns                                                                      | convert [GTFS](https://gtfs.org/) data to GMNS format                                                                                                                             |
 |     10     | DLSim                                                                          | Open-source Python package designed for integration of deep learning (first DL)<br />and traffic simulation, by extending original C++ based structure of DTALite (second DL) |
 |     11     | plot4gmns                                                                      | An open-source academic research tool for visualizing multimodal networks<br />for transportation system modeling and optimization                                            |
 |     12     | pyDTALite                                                                      | Python package for DTALite                                                                                                                                                    |
