@@ -1,27 +1,12 @@
 ### Hi there 👋
 
-<!--
-**xyluo25/xyluo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
-
-
-## **🔭 I’m currently working on ...**
+### **🔭 I’m currently working on ...**
 
 * Learning...
 
 
-## **🌱 Python Packages Developed / Contributed**
+### **🌱 Python Packages Developed / Contributed**
 
 | PKG | Name              | Version | Downloads                                                                                                | Description                                                                                                                                                                   | PyPI                                                |                   Development_GitHub                   |
 | :-: | ----------------- | :-----: | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | :----------------------------------------------------: |
@@ -37,7 +22,7 @@ Here are some ideas to get you started:
 | 10 | ...               |        |                                                                                                          | More on developing status                                                                                                                                                     |                                                     |                                                        |
 
 
-## **👯 Open-source Repositories Developed / Coontribued**
+### **👯 Open-source Repositories Developed / Coontribued**
 
 | Open PR(s) | Name                                                                           | Description                                                                                                                                                                   |
 | :--------: | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,6 +43,7 @@ Here are some ideas to get you started:
 |     15     | openNetwork                                                                    | The macro, meso, and micro layers of networks                                                                                                                                 |
 |     16     | Traffic-Flow-Fundamental-Diagram                                               | open-source codes and test data sets for calibrating a wide range of speed-density fundamental diagrams                                                                       |
 |     17     | More repositories go to [my GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                           |
+
 
 
 💬 Ask me about / 📫 reach me:  ...
