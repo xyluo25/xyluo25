@@ -43,28 +43,6 @@
 |     17     | More repositories go to[my GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                           |
 
 
-### **👯 Open-source Repositories Developed / Contribued**
-
-| Open Repo(s) | Name                                                                         | Description                                                                                                                                                                   |
-| :----------: | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      1      | utdf2gmns                                                                    | synchro utdf format to gmns signal timing format at movement layer                                                                                                            |
-|      2      | osm2mns                                                                      | convert map data from OpenStreetMap to network files in GMNS format                                                                                                           |
-|      3      | shp2geojson                                                                  | A Graphical User Interface (GUI) convert shp file to geojson file.                                                                                                            |
-|      4      | vissim2wgs1984                                                               | convert VISSIM .inpx to .geojson file, convert  .fzp and .fhz to csv                                                                                                       |
-|      5      | exceltopostgresql                                                            | automatically save local excel file (xlsx,xls,csv) to postgresql database                                                                                                   |
-|      6      | exceltomysql                                                                 | automatically save local excel file (xlsx,xls,csv) to MYSQL database                                                                                                        |
-|      7      | exceltosqlserver                                                             | automatically save local excel file (xlsx,xls,csv) to SQL Server database                                                                                                   |
-|      8      | pyhelpers                                                                    | An open-source toolkit for facilitating Python users' data manipulation tasks.                                                                                                |
-|      9      | gtfs2gmns                                                                    | convert[GTFS](https://gtfs.org/) data to GMNS format                                                                                                                             |
-|      10      | DLSim                                                                        | Open-source Python package designed for integration of deep learning (first DL)<br />and traffic simulation, by extending original C++ based structure of DTALite (second DL) |
-|      11      | plot4gmns                                                                    | An open-source academic research tool for visualizing multimodal networks<br />for transportation system modeling and optimization                                            |
-|      12      | pyDTALite                                                                    | Python package for DTALite                                                                                                                                                    |
-|      13      | tmc2gmns                                                                     | Convert TMC identification and reading files to GMNS node and link files, and perform QVDF estimation                                                                         |
-|      14      | grid2demand                                                                  | A tool for generating zone-to-zone travel demand based on grid zones and gravity model                                                                                        |
-|      15      | openNetwork                                                                  | The macro, meso, and micro layers of networks                                                                                                                                 |
-|      16      | Traffic-Flow-Fundamental-Diagram                                             | open-source codes and test data sets for calibrating a wide range of speed-density fundamental diagrams                                                                       |
-|      17      | More repositories go to[my GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                           |
-
 
 💬 Ask me about / 📫 reach me:  ...
 
