@@ -2,7 +2,7 @@
 
 ![img](https://komarev.com/ghpvc/?username=your-github-username)
 
-![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)![1688073529420](image/README/1688073529420.png)
+![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
 
 
 ### **🔭 I’m currently working on ...**
@@ -46,7 +46,7 @@
 |      16      | Traffic-Flow-Fundamental-Diagram                                             | Open-source codes and test data sets for calibrating a wide range of speed-density fundamental diagrams                                                                       |
 |      17      | More repositories go to[My GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                           |
 
-💬 Ask me about / 📫 reach me:  ...
+💬 [Ask me about / 📫 reach me](xyluo25.github.io):  ...
 
 * luoxiangyong01@gmail.com
 
