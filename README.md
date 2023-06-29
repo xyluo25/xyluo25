@@ -2,7 +2,8 @@
 
 ![img](https://komarev.com/ghpvc/?username=your-github-username)
 
-![1688000752411](image/README/1688000752411.png)
+![1688000752411](image/README/1688000752411.png)![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
+
 
 ### **🔭 I’m currently working on ...**
 
