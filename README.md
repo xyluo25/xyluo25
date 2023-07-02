@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-![img](https://komarev.com/ghpvc/?username=your-github-username)
+![img](https://komarev.com/ghpvc/?username=xyluo25)
 
 ![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
-
 
 ### **🔭 I’m currently working on ...**
 
