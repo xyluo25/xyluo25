@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<<<<<<< HEAD
-![img](https://komarev.com/ghpvc/?username=xyluo25)
-=======
 ![img](https://komarev.com/ghpvc/?username=xyluo25&label=PROFILE+VIEWS&color=green)
->>>>>>> b830e4177a33010a3f6bf75de34a5d20d8fa4919
 
 ![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
 
