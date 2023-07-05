@@ -23,7 +23,7 @@
 |  9  | pyhelpers         |         [![PyPI version](https://badge.fury.io/py/pyhelpers.svg)](https://badge.fury.io/py/pyhelpers)         | [![Downloads](https://static.pepy.tech/badge/pyhelpers)](https://pepy.tech/project/pyhelpers)                 | An open-source toolkit for facilitating Python users' data manipulation tasks.                                                                                                |
 | 10 | ...               |                                                                                                          |                                                                                                          | More on developing status                                                                                                                                                     |
 
-### **👯 Open-source Repositories Developed / Coontribued**
+### **👯 Open-source Repositories Developed / Contributed**
 
 | Open Repo(s) | Name                                                                         | Description                                                                                                                                                                   |
 | :----------: | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
