@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS+:2023-&color=green)
+![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS:+2023-+&color=green)
 
 ![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
 
