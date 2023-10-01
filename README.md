@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS&color=green)
+![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS:+2023-+&color=green)
 
 ![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github)
 
@@ -24,7 +24,7 @@
 | 10 | pyhelpers         |         [![PyPI version](https://badge.fury.io/py/pyhelpers.svg)](https://badge.fury.io/py/pyhelpers)         | [![Downloads](https://static.pepy.tech/badge/pyhelpers)](https://pepy.tech/project/pyhelpers)                 | An open-source toolkit for facilitating Python users' data manipulation tasks.                                                                                                |
 | 11 | ...               |                                                                                                          |                                                                                                          | More on developing status                                                                                                                                                     |
 
-### **👯 Open-source Repositories Developed / Coontribued**
+### **👯 Open-source Repositories Developed / Contributed**
 
 | Open Repo(s) | Name                                                                         | Description                                                                                                                                                                   |
 | :----------: | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
