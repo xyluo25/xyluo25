@@ -2,7 +2,7 @@
 
 ![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS:+2023-+&color=green)
 
-![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyluo25&layout=compact&theme=gruvbox)
+![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyluo25&layout=compact)
 
 ### **🔭 I’m currently working on ...**
 
