@@ -2,10 +2,14 @@
 
 ![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS:+2023-+&color=green)
 
-![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyluo25&layout=compact)
+![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github&show=prs_merged_percentage&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyluo25&layout=compact&hide=html,Dockerfile&langs_count=8)
 
 ### **🔭 I’m currently working on ...**
 
+* Transportation network optimization
+* Facility location problems
+* Local statistical modeling
+* lang-chain, open-cv, neural network...
 * Learning...
 
 ### **🌱 Python/C++ Packages Developed / Contributed**
