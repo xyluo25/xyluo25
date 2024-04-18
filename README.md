@@ -60,6 +60,7 @@
 💬 [Ask me about / 📫 reach me](xyluo25.github.io):  ...
 
 * [luoxiangyong01@gmail.com](mailto:luoxiangyong01@gmail.com)
+* orcid: https://orcid.org/0009-0003-1290-9983
 
 ⚡ Fun fact: ...
 
