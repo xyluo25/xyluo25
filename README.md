@@ -55,7 +55,7 @@
 |      16      | Traffic-Flow-Fundamental-Diagram                                                     | Open-source codes and test data sets for calibrating a wide range of speed-density fundamental diagrams                                                                      |
 |      17      | More repositories go to<br> [My GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                          |
 
-💬 [Ask me about / 📫 reach me](xyluo25.github.io):  ...
+💬 [Ask me about / 📫 reach out to me](xyluo25.github.io):  ...
 
 * [luoxiangyong01@gmail.com](mailto:luoxiangyong01@gmail.com)
 * orcid: https://orcid.org/0009-0003-1290-9983
