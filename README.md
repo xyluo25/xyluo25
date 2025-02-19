@@ -103,6 +103,9 @@
 <a href="https://www.tensorflow.org" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 </a>
+<a href="https://docs.nvidia.com/cuda/index.html" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" alt="cuda"></code>
+</a>
 
 **• Web Development:**
 <a href="https://www.djangoproject.com/" target="_blank">
