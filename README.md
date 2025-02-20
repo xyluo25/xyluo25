@@ -193,7 +193,7 @@
     <code><img height="30" src="https://www.ptvgroup.com/sites/default/files/2024-03/Vissim.svg" alt="vissim"></code>
 </a>
 <a href="https://www.cubic.com/transportation/products/intelligent-transportation-solutions/intelligent-systems/synchro-studio" target="_blank">
-    <code><img height="30" src="https://mms.businesswire.com/media/20191119005371/en/757516/4/Synchro_11_Logo-01.jpg" alt="synchro"></code>
+    <code><img height="30" src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/69075558919/original/IfOLU2CQPjzrhTe9WMct9Lup2YcJd6XQWw.png?1684256311" alt="synchro"></code>
 </a>
 <a href="https://www.aimsun.com/" target="_blank">
     <code><img height="30" src="https://www.aimsun.com/wp-content/uploads/2021/02/Aimsun_Horizontal_logo_white.png" alt="aimsun"></code>
@@ -210,8 +210,7 @@
     <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"></code>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png
-    " alt="sqlserver"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png" alt="sqlserver"></code>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="mongodb"></code>
