@@ -89,10 +89,10 @@
 
 **• AI Frameworks:**
 <a href="https://numpy.org/" target="_blank">
-	<code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg"></code>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank"><code>
-    <img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
+<a href="https://pandas.pydata.org/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
 </a>
 <a href="https://pytorch.org/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg"></code>
