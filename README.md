@@ -2,9 +2,9 @@
 
 ![img](https://komarev.com/ghpvc/?username=xyluo25&label=xyluo25+PROFILE+VIEWS:+2023-+&color=green)
 [![dev.to badge](https://img.shields.io/badge/Linkedin-Xiangyong_Roy_Luo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/xiangyong-roy-luo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoxiangyong01@gmail.com)](mailto:luoxiangyong01@gmail.com)
-![githubbadge](https://img.shields.io/github/followers/xyluo25?style=social)
-![githubbadge](https://img.shields.io/github/stars/xyluo25?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail_Xiangyong-darkyellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoxiangyong01@gmail.com)](mailto:luoxiangyong01@gmail.com)
+![githubbadge](https://img.shields.io/github/followers/xyluo25?style=social-blue)
+![githubbadge](https://img.shields.io/github/stars/xyluo25?style=social-blue)
 
 ## ⚡ Github Stats
 
