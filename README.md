@@ -8,11 +8,15 @@
 
 ## ⚡ Github Stats
 
-![general_summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyluo25&count_private=true&theme=solarized_dark)
+<a href="https://github.com/xyluo25">
+  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyluo25&count_private=true&theme=solarized_dark" />
+</a>
 <a href="https://github.com/xyluo25">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=xyluo25&theme=solarized-dark&rank_icon=github&show_icons=true&count_private=true&show=prs_merged_percentage&hide=contribs&count_private=true" />
 </a>
-![focus-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyluo25&count_private=true&theme=solarized_dark&count_private=true)
+<a href="https://github.com/xyluo25">
+  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyluo25&count_private=true&theme=solarized_dark&count_private=true" />
+</a>
 
 ## **🔭 I’m currently working on ...**
 
