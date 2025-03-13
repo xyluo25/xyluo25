@@ -8,11 +8,9 @@
 
 ## ⚡ Github Stats
 
-![xyluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyluo25&rank_icon=github&show_icons=true&count_private=true&theme=calm&show=prs_merged_percentage&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyluo25&layout=compact&count_private=true&theme=cobalt&hide=Dockerfile&langs_count=8)
-![general_summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyluo25&count_private=true&theme=zenburn)
-![focus-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyluo25&count_private=true&theme=zenburn&utcOffset=8)
-![commit_lang](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xyluo25&count_private=true&theme=zenburn)
+![general_summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyluo25&count_private=true&theme=solarized_dark)
+![xyluo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xyluo25&theme=solarized_dark&rank_icon=github&show_icons=true&count_private=true&show=prs_merged_percentage&hide=contribs&count_private=true)
+![focus-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyluo25&count_private=true&theme=solarized_dark&count_private=true)
 
 ## **🔭 I’m currently working on ...**
 
