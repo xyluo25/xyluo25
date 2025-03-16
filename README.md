@@ -226,7 +226,7 @@
 ## 🏆 Github Awards
 <p align="left">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=xyluo25&theme=chalk&margin-w=15&title=Stars,MultiLanguage,PR,Followers,Repositories,Commits,Issues,Experience" alt="xyluo25" />
+	<img src="https://github-profile-trophy.vercel.app/?username=xyluo25&theme=chalk&margin-w=15&title=Stars,MultiLanguage,PR,Repositories,Commits,Issues" alt="xyluo25" />
 	</a>
 </p>
 
