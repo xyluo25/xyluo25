@@ -6,7 +6,7 @@
 ![githubbadge](https://img.shields.io/github/followers/xyluo25?style=social-blue)
 ![githubbadge](https://img.shields.io/github/stars/xyluo25?style=social-blue)
 
-## ⚡ Github Stats
+## ⚡ GitHub Stats
 
 <a href="https://github.com/xyluo25">
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyluo25&count_private=true&theme=solarized_dark" />
