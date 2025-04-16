@@ -19,7 +19,7 @@
 </a>
 
 <picture>
-    <img src="https://raw.githubusercontent.com/xyluo25/xyluo25/snake_game/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/xyluo25/xyluo25/refs/heads/snake_game/github_snake_game.svg" />
 </picture>
 
 
