@@ -58,7 +58,7 @@
 |    7    | exceltomysql                                                            | Automatically save local excel file (xlsx,xls,csv) to MYSQL database                                                                                                           |
 |    8    | exceltosqlserver                                                        | Automatically save local excel file (xlsx,xls,csv) to SQL Server database                                                                                                      |
 |    9    | pyhelpers                                                               | An open-source toolkit for facilitating Python users' data manipulation tasks.                                                                                                   |
-|   10   | gtfs2gmns                                                               | Convert[GTFS](https://gtfs.org/) data to GMNS format                                                                                                                                |
+|   10   | gtfs2gmns                                                               | Convert [GTFS](https://gtfs.org/) data to GMNS format                                                                                                                                |
 |   11   | DLSim                                                                   | Open-source Python package designed for integration of deep learning (first DL)`<br>` and traffic simulation, by extending original C++ based structure of DTALite (second DL) |
 |   12   | plot4gmns                                                               | An open-source academic research tool for visualizing multimodal networks`<br>` for transportation system modeling and optimization                                            |
 |   13   | pyDTALite                                                               | Python package for DTALite                                                                                                                                                       |
@@ -66,7 +66,7 @@
 |   15   | grid2demand                                                             | A tool for generating zone-to-zone travel demand based on grid zones and gravity model                                                                                           |
 |   16   | openTN                                                                  | Open transportation network with macro, meso, and micro (Global-Regional-Local) layers                                                                                           |
 |   17   | Traffic-Flow-Fundamental-Diagram                                        | Open-source codes and test data sets for calibrating a wide range of speed-density fundamental diagrams                                                                          |
-|   18   | More repositories:[My GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                              |
+|   18   | More repositories: [My GitHub](https://github.com/xyluo25?tab=repositories) | ...                                                                                                                                                                              |
 
 ## 🛠️ Favorite Languages and Tools
 
