@@ -17,6 +17,9 @@
 <a href="https://github.com/xyluo25">
   <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyluo25&count_private=true&theme=solarized_dark&count_private=true" />
 </a>
+<picture>
+    <img src="https://raw.githubusercontent.com/xyluo25/xyluo25/snake_game/github_snake_game.svg" />
+</picture>
 
 ## **🔭 I’m currently working on ...**
 
