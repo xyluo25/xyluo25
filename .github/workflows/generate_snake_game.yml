@@ -36,5 +36,5 @@ jobs:
         with:
           target_branch: snake_game
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.github_profile }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.github_profile }}
